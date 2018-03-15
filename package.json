@@ -39,8 +39,8 @@
     "@angular/platform-browser": "^5.0.0",
     "@angular/platform-browser-dynamic": "^5.0.0",
     "@angular/router": "^5.0.0",
+    "@instriker/demolibraryforaot": "^0.0.4",
     "core-js": "^2.4.1",
-    "demolibraryforaot": "file:../demolibraryforaot/dist/demolibraryforaot-0.0.1.tgz",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.14"
   },
