@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { SimpleCoreComponent } from 'demolibraryforaot';
+import { SimpleCoreComponent } from '@instriker/demolibraryforaot';
 
 @Component({
   selector: 'app-forums',
