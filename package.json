@@ -1,7 +1,26 @@
 {
-  "name": "angular-inh-aot-bug",
-  "version": "0.0.0",
+  "name": "@instriker-demo/angular-inh-aot-bug",
+  "description": "Sample angular project to demonstrate AOT issue using external librairies",
+  "version": "0.0.1",
+  "url": "https://github.com/instriker/bug-angular-aot-project-1.git",
+  "author": {
+    "name": "Alexandre Emond",
+    "url": "https://github.com/instriker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/instriker/bug-angular-aot-project-1.git"
+  },
   "license": "MIT",
+  "keywords": [
+    "ng",
+    "angular",
+    "aot",
+    "bug"
+  ],
+  "bugs": {
+    "url": "https://github.com/instriker/bug-angular-aot-project-1/issues"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +29,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^5.0.0",
     "@angular/common": "^5.0.0",
@@ -22,6 +40,7 @@
     "@angular/platform-browser-dynamic": "^5.0.0",
     "@angular/router": "^5.0.0",
     "core-js": "^2.4.1",
+    "demolibraryforaot": "file:../demolibraryforaot/dist/demolibraryforaot-0.0.1.tgz",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.14"
   },
