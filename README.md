@@ -7,3 +7,6 @@ Show issue when having a core component inside an external library project using
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
+See [Angular issue](https://github.com/angular/angular/issues/22825)
