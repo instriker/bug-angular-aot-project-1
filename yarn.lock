@@ -159,9 +159,9 @@
   dependencies:
     tslib "^1.7.1"
 
-"@instriker/demolibraryforaot@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@instriker/demolibraryforaot/-/demolibraryforaot-0.0.4.tgz#f019fadeba5b4cbe9dee42065354e550a100b84c"
+"@instriker/demolibraryforaot@0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@instriker/demolibraryforaot/-/demolibraryforaot-0.0.8.tgz#4a54b937b9e85d9798de469895cb26dbc633c164"
 
 "@ngtools/json-schema@1.2.0":
   version "1.2.0"
